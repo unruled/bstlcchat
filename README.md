@@ -1,5 +1,6 @@
 Mattermost BOSH release
 =======================
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 [Mattermost](http://www.mattermost.com/) is a self-hosted Slack-alternative - a modern communication, behind your firewall, running on BOSH in AWS, vSphere, GCE, Azure, OpenStack and more.
 
